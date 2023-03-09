@@ -8,4 +8,4 @@
 
 You can find the Deployed App with the following Link.
 
-https://finding-falcone-cj.netlify.app/
+https://findingthefalcone.netlify.app/
